@@ -1,6 +1,6 @@
 Pizza Sales Analysis
 Project Overview
-This project uses SQL and PostgreSQL to analyze coffee shop sales data and explore business performance.
+This project analyzes pizza sales data using SQL to understand revenue performance, customer ordering patterns, and product popularity. The analysis explores sales by pizza category, pizza size, and time period to identify trends and support business decision-making.
 Tools Used
 •	PostgreSQL
 •	pgAdmin 4
