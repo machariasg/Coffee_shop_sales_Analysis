@@ -1,4 +1,4 @@
-Coffee Shop Sales Analysis
+Pizza Sales Analysis
 Project Overview
 This project uses SQL and PostgreSQL to analyze coffee shop sales data and explore business performance.
 Tools Used
@@ -24,7 +24,7 @@ SQL Skills
 •	COUNT(DISTINCT)
 
 Project Files
-•	SQL file: Queries used to analyze coffee shop sales data.
+•	SQL file: Queries used to analyze Pizza sales data.
 Key Findings
 1.	The Revenue trend shows September sold the most pizzas
 2.	The daily Revenue trend shows Friday is the busiest day of the week
